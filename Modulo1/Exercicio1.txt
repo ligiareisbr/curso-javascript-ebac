@@ -1,0 +1,9 @@
+Exercício 1. Algoritmo para a Travessia:
+Homem e seus 3 pertences estão na margem 1;
+Homem vai com cabra para a margem 2 e deixa lobo e maço de alfafa na margem 1;
+Homem volta sozinho para a margem 1 e deixa cabra sozinha na margem 2;
+Homem vai com maço de alfafa para a margem 2 e deixa lobo sozinho na margem 1;
+Homem volta com cabra para a margem 1 e deixa maço de alfafa sozinho na margem 2;
+Homem deixa cabra sozinha na margem 1 e vai com lobo para a margem 2;
+Homem volta sozinho para margem 1 e deixa lobo e maço de alfafa na margem 2;
+Homem vai com cabra para margem 2 e conclui a travessia.
